@@ -1,7 +1,6 @@
+<img align="right" alt="Coding" width="1000" height="300" src="https://i.pinimg.com/originals/21/7d/a2/217da299cc918fad9b76eb99e4bb75b3.gif">
+
 ### Hi there 👋
-
-
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/21/7d/a2/217da299cc918fad9b76eb99e4bb75b3.gif">
 <!--
 **ku6a-cj/ku6a-cj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,7 @@
+<!--
 <img align="right" alt="Coding" width="100000" height="300" src="https://i.pinimg.com/originals/21/7d/a2/217da299cc918fad9b76eb99e4bb75b3.gif"></a>
 &nbsp;
+-->
 <div align="center"><h3>Hi there! <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h3></a>
 </div>
 &nbsp;

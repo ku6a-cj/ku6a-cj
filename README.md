@@ -11,7 +11,7 @@
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/>
+<!--<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/>-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" alt="swift" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
